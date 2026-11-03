@@ -1,0 +1,25 @@
+{
+  "key.hudinfo.open": "Открыть редактор HUD",
+  "key.category.hudinfo.main": "HUD Info",
+
+  "hudinfo.screen.title": "Редактор HUD",
+  "hudinfo.ui.hint": "Перетаскивайте элементы мышкой. Клик по элементу — настройки.",
+  "hudinfo.ui.done": "Готово",
+  "hudinfo.ui.reset": "Сбросить элемент",
+  "hudinfo.ui.enabled": "Показывать: ВКЛ",
+  "hudinfo.ui.disabled": "Показывать: ВЫКЛ",
+  "hudinfo.ui.size": "Размер текста: %sx",
+  "hudinfo.ui.background": "Фон: %s%%",
+
+  "hudinfo.element.fps": "FPS",
+  "hudinfo.element.ping": "Пинг",
+  "hudinfo.element.biome": "Биом",
+  "hudinfo.element.day": "День",
+  "hudinfo.element.coords": "Координаты",
+
+  "hudinfo.text.fps": "FPS: %s",
+  "hudinfo.text.ping": "Пинг: %s мс",
+  "hudinfo.text.biome": "Биом: %s",
+  "hudinfo.text.day": "День: %s",
+  "hudinfo.text.coords": "XYZ: %s / %s / %s"
+}

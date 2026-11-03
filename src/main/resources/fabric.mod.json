@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "hudinfo",
+  "version": "${version}",
+  "name": "HUD Info",
+  "description": "A customizable HUD overlay that shows FPS, ping, biome, day and coordinates. Drag every element with the mouse, resize the text, pick a color and set the background opacity for each element individually.",
+  "authors": [
+    "HallowedMold900"
+  ],
+  "license": "MIT",
+  "icon": "assets/hudinfo/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.hallowedmold900.hudinfo.HudInfoMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.3 <27",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

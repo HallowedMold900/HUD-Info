@@ -1,0 +1,25 @@
+{
+  "key.hudinfo.open": "Open HUD editor",
+  "key.category.hudinfo.main": "HUD Info",
+
+  "hudinfo.screen.title": "HUD Editor",
+  "hudinfo.ui.hint": "Drag elements with the mouse. Click an element to edit it.",
+  "hudinfo.ui.done": "Done",
+  "hudinfo.ui.reset": "Reset element",
+  "hudinfo.ui.enabled": "Shown: ON",
+  "hudinfo.ui.disabled": "Shown: OFF",
+  "hudinfo.ui.size": "Text size: %sx",
+  "hudinfo.ui.background": "Background: %s%%",
+
+  "hudinfo.element.fps": "FPS",
+  "hudinfo.element.ping": "Ping",
+  "hudinfo.element.biome": "Biome",
+  "hudinfo.element.day": "Day",
+  "hudinfo.element.coords": "Coordinates",
+
+  "hudinfo.text.fps": "FPS: %s",
+  "hudinfo.text.ping": "Ping: %s ms",
+  "hudinfo.text.biome": "Biome: %s",
+  "hudinfo.text.day": "Day: %s",
+  "hudinfo.text.coords": "XYZ: %s / %s / %s"
+}
