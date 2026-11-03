@@ -1,3 +1,4 @@
+[Modrinth](https://modrinth.com/project/1jABp4pg)
 # HUD Info
 
 HUD Info is a lightweight, fully customizable on-screen display for Minecraft. It shows the information you check most often — right on your screen — and lets you arrange and style every piece of it exactly the way you like, without editing any files.
